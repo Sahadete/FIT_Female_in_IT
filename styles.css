@@ -1,0 +1,178 @@
+
+/*************************
+ © Sahadete Jashari
+  *************************/
+
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+
+#fit{
+	color: #D6AD33;
+	
+}
+
+h1.header1{
+	text-align: center;
+	padding: 30px;
+	font-family: 'Open Sans', sans-serif;
+	color:#003366;
+	
+}
+
+
+
+h3.header3{
+	text-decoration: underline;
+	font-family:'Open Sans', sans-serif;
+	color:#003366;
+}
+
+span.personalinfo{
+	padding-right:20px;
+}
+
+#hint{
+	color: red;
+}
+
+#00{
+	width:1000px;
+
+	border-style: solid;
+	border-width: 1px;
+	border-color:#003366;
+}
+
+#01{
+	width:600px;
+	float:left;
+}
+
+#description{
+	color:#003366;
+	text-align:center;
+	font-family: 'Open Sans', sans-serif;
+	padding: 100px, 20px;
+}
+
+#profileCourses{
+	padding-bottom:50px;
+}
+
+
+
+h4.profileTitle{
+	font-family: 'Open Sans', sans-serif;
+	color:#003366;
+	text-decoration: underline;
+	 
+}
+
+#fieldset{
+	
+	background-color:#eeeeee; 
+	background-repeat: repeat-x;
+	font-family:'Open Sans', sans-serif;
+	font-size: 13px;
+	color:#003366;
+}
+
+
+#gototop{
+	color: #003366;
+	font-family: 'Open Sans', sans-serif;
+	text-align:right;
+	padding-top:20px;
+	padding-bottom: 20px;
+
+}
+
+
+
+ol.courses{
+	font-family:'Open Sans', sans-serif;
+}
+
+p.profileDesc{
+	font-family:'Open Sans', sans-serif;
+}
+
+
+
+#div1{
+	width:400px;
+	float:left;
+	padding-left:20px;
+	
+	
+}
+#div2{
+	width:400px;
+	float:left;
+	padding-left:20px;
+	
+}
+#div3{
+	width:400px;
+	float:left;
+	padding-left:20px;
+}
+
+#mapDesc{
+	clear:both;
+	text-align:center;
+	color:#003366;
+	font-family:'Open Sans', sans-serif;
+}
+
+#footer{
+	background-color: #003366;
+	color:#D6AD33 ;
+	clear:both;
+	font-family:'Open Sans', sans-serif;
+	font-size: 13px;
+	text-align: center;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	
+}
+
+
+#thankYou{
+	font-family: 'Open Sans', sans-serif;
+	color:#003366;
+	padding-top:300px;
+	padding-left:400px;
+	background-color: #E1C46C;
+}
+
+p.historia{
+	font-family: 'Open Sans', sans-serif;
+}
+
+#tableTitle{
+	padding-top: 25px;
+	text-align: center;
+	color:#003366;
+	font-family:'Open Sans', sans-serif;
+}
+
+#tableHeader{
+	border-bottom:1px solid #003366 ;
+}
+
+#table{
+	border: 1px solid #003366 ;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	background-color:#eeeeee;
+	padding-bottom: 20px;
+	
+}
+#back{
+	font-family: 'Open Sans', sans-serif;
+	color:#003366;
+	padding-right:50px;
+}
+
